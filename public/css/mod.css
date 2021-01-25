@@ -1,0 +1,38 @@
+.item-mod {
+    width: 250px !important;
+    height: 600px !important;
+    color: rgb(236, 234, 234);
+}
+.img-posts{
+    border-radius: 3px;
+}
+.link-post img{
+    text-align: center;
+}
+
+.wrap{
+    display: flex;
+    margin: 10px;
+    justify-content: space-between;
+}
+.btn{
+    font-size: 15px;
+    font-family: Playfair Display;
+}
+.btn-create{
+    background-color: black;
+    color: #ccc;
+}
+.btn-update{
+    background-color: white;
+    color: black;
+}
+.btn-delete{
+width: 100%;
+height: 100%;
+background-color: black;
+color: #ccc;
+}
+.btn-delete:hover{
+    color: rgb(119, 100, 100);
+}
